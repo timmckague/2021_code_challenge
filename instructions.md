@@ -28,3 +28,7 @@ Complete the file `solution.py`. There are some test cases your code should be a
 ## Constraints
 
 Your code cannot use multi-threading...
+
+# all zeros
+# multiple paths
+
